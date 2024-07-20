@@ -1,0 +1,14 @@
+.open employ1
+
+
+CREATE TABLE activities
+(
+id varchar(10) NOT NULL,
+s1 char(1),s2 char(1),s3 char(1),s4 char(1),s5 char(1),s6 char(1)
+);
+
+CREATE TABLE mentorset
+(
+id varchar(10) NOT NULL,
+s1 char(1),s2 char(1),s3 char(1),s4 char(1)
+);
